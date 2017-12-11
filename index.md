@@ -8,5 +8,5 @@ Currently there aren't any meet-ups, but maybe soon we will organise something :
 
 # Communications
 
-You can join our Gitter Room, by clicking here: [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/electron-poland/Lobby)
+You can join our Gitter Room, by clicking [HERE](https://gitter.im/electron-poland/Lobby).
 
