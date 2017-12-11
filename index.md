@@ -10,7 +10,7 @@ Currently there aren't any meet-ups, but maybe soon we will organise something :
 
 You can join our Gitter Room, by clicking [HERE](https://gitter.im/electron-poland/Lobby).
 
-<hr></hr>
+----------------------------------------------------------------------------------------------------------------------------------------
 
 # Electron Polska
 
