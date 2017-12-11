@@ -18,7 +18,7 @@ Witaj! Electron Polska to grupa dla ludzi, którzy używają oprogramowania zwi�
 
 # Spotkania
 
-Obecnie nie planujemy żadnych spotkać, ale być może w przyszłości uda się coś zorganizować :)
+Obecnie nie planujemy żadnych spotkań, ale być może w przyszłości uda się coś zorganizować :)
 
 # Komunikacja
 
