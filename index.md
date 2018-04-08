@@ -8,10 +8,9 @@ Currently there aren't any meet-ups, but maybe soon we will organise something :
 
 # Communications
 
-You can join our community, by clicking one of the following buttons:
+You can join our community on Gitter, by clicking this button:
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/electron-poland/Lobby) 
-[![Discord](https://user-images.githubusercontent.com/7288322/34471967-1df7808a-efbb-11e7-9088-ed0b04151291.png)](https://discord.gg/6QPK9MN)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -25,7 +24,6 @@ Obecnie nie planujemy żadnych spotkań, ale być może w przyszłości uda się
 
 # Komunikacja
 
-Możesz dołączyć do naszej społeczności, klikając w jeden z poniższych przycisków:
+Możesz dołączyć do naszej społeczności na platformie Gitter, klikając w poniższy przycisk:
 
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/electron-poland/Lobby) 
-[![Discord](https://user-images.githubusercontent.com/7288322/34471967-1df7808a-efbb-11e7-9088-ed0b04151291.png)](https://discord.gg/6QPK9MN)
+[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/electron-poland/)
