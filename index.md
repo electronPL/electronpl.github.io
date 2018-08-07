@@ -17,4 +17,5 @@ Możesz dołączyć do naszej społeczności na platformie Gitter lub Discord, k
 
 Wybrane projekty zostały wykonane przez członków polskiej społeczności Electrona:
 
+- [Wexond](https://github.com/wexond/wexond) - Rozszerzalna przeglądarka internetowa z pięknym interfejsem.
 - [elcalc](https://github.com/elcalc/elcalc) - Prosty kalkulator.
