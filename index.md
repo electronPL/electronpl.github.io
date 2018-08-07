@@ -8,9 +8,10 @@ Obecnie nie planujemy żadnych spotkań, ale być może w przyszłości uda się
 
 # Komunikacja 📞
 
-Możesz dołączyć do naszej społeczności na platformie Gitter, klikając w poniższy przycisk:
+Możesz dołączyć do naszej społeczności na platformie Gitter lub Discord, klikając w poniższe przyciski:
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/electron-poland/)
+[![Discord](https://img.shields.io/discord/102860784329052160.svg)](https://discord.gg/uD5jARz)
 
 # Wyróżnione Projekty ⭐
 
