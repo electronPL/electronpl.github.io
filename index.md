@@ -16,6 +16,7 @@ Możesz dołączyć do naszej społeczności na platformie Discord, klikając w 
 
 Wybrane projekty zostały wykonane przez członków polskiej społeczności Electrona:
 
-- [Wexond](https://github.com/wexond/wexond) - Rozszerzalna przeglądarka internetowa z pięknym interfejsem.
-- [elcalc](https://github.com/elcalc/elcalc) - Prosty kalkulator.
+- [Wexond](https://github.com/wexond/wexond) - Rozszerzalna przeglądarka, która chroni twoją prywatność.
+- [elcalc](https://github.com/elcalc/elcalc) - Kalkulator wspierający zarówno proste obliczenia, jak i zaawansowane funkcje naukowe.
 - [ansi-downloader](https://github.com/Nimebox/ansi-downloader) - Pobieraj napisy z animesub.info wygodniej.
+- [pesel-verification](https://github.com/xXmilanek/pesel-verification) - Prosta aplikacja sprawdzająca numery PESEL.
